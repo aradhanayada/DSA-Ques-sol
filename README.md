@@ -4,7 +4,7 @@
 - [Two Sum](https://leetcode.com/problems/two-sum/submissions/)
 - [Reverse A String](https://leetcode.com/problems/reverse-string/submissions/)
 - [Two sum 2](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/submissions/)
-- [Squares of sorted array](https://leetcode.com/problems/squares-of-a-sorted-array/description/)
+- [Squares of sorted array](https://leetcode.com/problems/squares-of-a-sorted-array/submissions/)
 - [3 Sum](https://leetcode.com/problems/3sum/)
 
 
