@@ -9,3 +9,4 @@
 - [Squares of sorted array](https://leetcode.com/problems/squares-of-a-sorted-array/description/)
 - [Sort colors](https://leetcode.com/problems/sort-colors/)
 - [Move Zeroes](https://leetcode.com/problems/move-zeroes/description/)
+- [Reverse word in a String](https://leetcode.com/problems/reverse-words-in-a-string/)
