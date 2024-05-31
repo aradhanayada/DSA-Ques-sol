@@ -1,5 +1,7 @@
 
 ## MY DSA SHEET
+# Adhoc
+-[Myltiply String](https://leetcode.com/problems/multiply-strings/description/)
 ## Arrays and Two Pointers
 - [Two Sum](https://leetcode.com/problems/two-sum/)
 - [Reverse A String](https://leetcode.com/problems/reverse-string/description/)
