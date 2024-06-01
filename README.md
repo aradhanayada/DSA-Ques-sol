@@ -10,3 +10,6 @@
 - [Sort colors](https://leetcode.com/problems/sort-colors/)
 - [Move Zeroes](https://leetcode.com/problems/move-zeroes/description/)
 - [Reverse word in a String](https://leetcode.com/problems/reverse-words-in-a-string/)
+## Arrays and Hassing
+- [Valid Anagram](https://leetcode.com/problems/valid-anagram/description/)
+- [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/)
